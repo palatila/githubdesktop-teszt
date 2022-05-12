@@ -1,1 +1,1 @@
-Ez az ABC.txt fájlom amit az előbb commitoltam a git desktop alkalmazásaal!
+HAHA kitörltem az előző zsöveget ez lett helyette! 
